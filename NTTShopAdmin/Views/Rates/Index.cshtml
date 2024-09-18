@@ -1,0 +1,44 @@
+﻿@model IEnumerable<NTTShopAdmin.Entities.Rate>
+
+@{
+    ViewBag.Title = "Rates";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Crear nueva tarifa", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID Tarifa
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Defecto
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item._default)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { idRate = item.idRate/* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

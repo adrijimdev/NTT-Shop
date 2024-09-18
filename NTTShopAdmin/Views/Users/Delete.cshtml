@@ -1,0 +1,140 @@
+﻿@model NTTShopAdmin.Entities.User
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>¿Estás seguro de que quieres eliminar este usuario?</h3>
+<div>
+    <h4>User</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PkUser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PkUser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.login)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.surname1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.surname1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.surname2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.surname2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.province)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.province)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.town)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.town)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.postalcode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.postalcode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.language)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.language)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.rate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rate)
+        </dd>
+
+    </dl>
+
+    @*@if (ViewBag.Alert != null)
+    {
+        <div class="alert alert-dismissable alert-info">
+            <button type="button" class="close" data-dismiss="alert">
+                &times;
+            </button>
+            <strong>Aviso!</strong> @ViewBag.Alert
+        </div>
+    }*@
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Volver atrás", "Index")
+        </div>
+    }
+</div>

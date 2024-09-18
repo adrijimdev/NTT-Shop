@@ -1,0 +1,73 @@
+﻿@model NTTShopAdmin.Entities.Order
+
+@{
+    ViewBag.Title = "Cancel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ANULAR PEDIDO</h2>
+
+<h3>¿Está seguro de anular este pedido?</h3>
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idOrder)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idOrder)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idUser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idUser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.orderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.orderDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.orderStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.orderStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.totalPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.totalPrice)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Anular pedido" class="btn btn-danger" /> |
+            @Html.ActionLink("Volver atrás", "Index")
+        </div>
+    }
+</div>

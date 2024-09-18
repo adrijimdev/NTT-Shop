@@ -1,0 +1,51 @@
+﻿@model List<NTTShopAdmin.Entities.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Productos</h2>
+
+@using (Html.BeginForm("Index", "Test", FormMethod.Post))
+{
+    if (Model != null)
+    {
+        <p>
+            @Html.ActionLink("Añadir producto", "Create", "Products")
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>- - - - - - - - -</th>
+                    <th>
+                        Stock
+                    </th>
+                    <th>
+                        Disponible
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@Html.DisplayFor(modelitem => item.idProduct)</td>
+                    <th>- - - - - - - - -</th>
+                    <td>@Html.DisplayFor(modelitem => item.stock)</td>
+                    <td>@Html.DisplayFor(modelitem => item.enabled)</td>
+                    <td>
+                        @*<a asp-action="Edit" asp-route-id="@item.idProduct">Editar</a>*@
+                        @Html.ActionLink("Editar", "Edit", "Products", new { idProduct = item.idProduct }, null) |
+                        @Html.ActionLink("Descripciones", "IndexDescriptions", "Products", new { idProduct = item.idProduct }, null) |
+                        @Html.ActionLink("Tarifas", "IndexRates", "Products", new { idProduct = item.idProduct }, null) |
+                        @Html.ActionLink("Eliminar", "Delete", "Products", new { idProduct = item.idProduct }, null)
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+}

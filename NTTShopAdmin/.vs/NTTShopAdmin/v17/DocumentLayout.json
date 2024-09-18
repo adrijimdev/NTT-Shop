@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\nttshopadmin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\createdescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\createdescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\createrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\createrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\deletedescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\deletedescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\indexrates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\indexrates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\indexdescriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\indexdescriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\deleterate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\deleterate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\languages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\languages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\orders\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\orders\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85AFF0-4352-4498-90EC-941D2D4CE421}|NTTShopAdmin.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 467,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAqwPkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRate.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\CreateRate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\CreateRate.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\CreateRate.cshtml",
+              "RelativeToolTip": "Views\\Products\\CreateRate.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateDescription.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\CreateDescription.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\CreateDescription.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\CreateDescription.cshtml",
+              "RelativeToolTip": "Views\\Products\\CreateDescription.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteDescription.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\DeleteDescription.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\DeleteDescription.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\DeleteDescription.cshtml",
+              "RelativeToolTip": "Views\\Products\\DeleteDescription.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteRate.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\DeleteRate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\DeleteRate.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\DeleteRate.cshtml",
+              "RelativeToolTip": "Views\\Products\\DeleteRate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRate.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\ProductRate.cs",
+              "RelativeDocumentMoniker": "Entities\\ProductRate.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\ProductRate.cs",
+              "RelativeToolTip": "Entities\\ProductRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Admin.cs",
+              "RelativeToolTip": "Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Detail.cs",
+              "RelativeDocumentMoniker": "Entities\\Detail.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Detail.cs",
+              "RelativeToolTip": "Entities\\Detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Description.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Description.cs",
+              "RelativeDocumentMoniker": "Entities\\Description.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Description.cs",
+              "RelativeToolTip": "Entities\\Description.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexDescriptions.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\IndexDescriptions.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\IndexDescriptions.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\IndexDescriptions.cshtml",
+              "RelativeToolTip": "Views\\Products\\IndexDescriptions.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDescription.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\ProductDescription.cs",
+              "RelativeDocumentMoniker": "Entities\\ProductDescription.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\ProductDescription.cs",
+              "RelativeToolTip": "Entities\\ProductDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexRates.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\IndexRates.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\IndexRates.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\IndexRates.cshtml",
+              "RelativeToolTip": "Views\\Products\\IndexRates.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Admins\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admins\\Create.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Admins\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admins\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEUAAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Controllers\\LanguagesController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAmwJgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAewOMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Rate.cs",
+              "RelativeDocumentMoniker": "Entities\\Rate.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Rate.cs",
+              "RelativeToolTip": "Entities\\Rate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHwAAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Admins\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admins\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Admins\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admins\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RatesController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "Controllers\\RatesController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAwIcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Entities\\Language.cs",
+              "RelativeToolTip": "Entities\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Languages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Languages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Languages\\Create.cshtml",
+              "RelativeToolTip": "Views\\Languages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Cancel.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Cancel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\NTTShopAdmin\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-09T14:22:57.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

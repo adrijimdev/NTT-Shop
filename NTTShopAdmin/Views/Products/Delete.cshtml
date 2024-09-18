@@ -1,0 +1,46 @@
+﻿@model NTTShopAdmin.Entities.Product
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h1>Editar producto</h1>
+
+<h4>@Html.DisplayFor(model => model.name)</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Delete" asp-controller="Products" method="POST">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" name="name" class="control-label">Nombre</label>
+                @Html.Label("name")
+            </div>
+            <div class="form-group">
+                <label asp-for="description" name="description" class="control-label">Descripción</label>
+                @Html.Label("description")
+            </div>
+            <div class="form-group">
+                <label asp-for="stock" name="stock" class="control-label">Stock</label>
+                @Html.Label("stock")
+            </div>
+            <div class="form-group">
+                <label>¿Estás seguro de eliminar este producto?</label>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="language" class="control-label">Categoría</label>
+                <select asp-for="language" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Confirmar borrado" class="btn btn-danger" />
+            </div>
+        </form>
+        <form asp-action="Index" asp-controller="Products">
+            <input type="submit" onclick="Cancel" value="Cancelar" class="btn btn-primary" />
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Volver a la lista", "Index", "Products")
+</div>
+

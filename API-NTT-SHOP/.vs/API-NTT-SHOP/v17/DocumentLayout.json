@@ -1,0 +1,719 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xtreme\\Downloads\\devskiller-code-2EQU-F7EU-Y3YX-S3F\\BookCrudOperationASP_Net\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\dac\\productsdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\dac\\productsdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\bc\\productsbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\bc\\productsbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\dac\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\dac\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\insertproductraterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\insertproductraterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\insertdescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\insertdescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\getproductrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\getproductrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getproductratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getproductratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\deleteproductraterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\deleteproductraterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\deletelanguagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\deletelanguagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getallproductratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getallproductratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\deleteproductrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\deleteproductrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\dac\\languagesdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\dac\\languagesdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\dac\\usersdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\dac\\usersdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getlanguageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getlanguageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getadminloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getadminloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getproductstockresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getproductstockresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\bc\\ratesbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\bc\\ratesbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\dac\\ratesdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\dac\\ratesdac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\updatedescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\updatedescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\request\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\request\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\response\\getproductdescriptionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\response\\getproductdescriptionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|c:\\users\\xtreme\\documents\\github\\nttshop\\api-ntt-shop\\api-ntt-shop\\models\\entities\\insertproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CD653C-4146-4386-A2A4-9F737ED313F6}|API-NTT-SHOP\\API_NTT_SHOP.csproj|solutionrelative:api-ntt-shop\\models\\entities\\insertproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Downloads\\devskiller-code-2EQU-F7EU-Y3YX-S3F\\BookCrudOperationASP_Net\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\devskiller-code-2EQU-F7EU-Y3YX-S3F\\BookCrudOperationASP_Net\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Downloads\\devskiller-code-2EQU-F7EU-Y3YX-S3F\\BookCrudOperationASP_Net\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\devskiller-code-2EQU-F7EU-Y3YX-S3F\\BookCrudOperationASP_Net\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:21:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Startup.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Startup.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Startup.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Startup.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:24:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\DAC\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\ConnectionManager.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\DAC\\ConnectionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:15:45.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\appsettings.json",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\appsettings.json",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\appsettings.json",
+              "RelativeToolTip": "API-NTT-SHOP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T14:54:53.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsBC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\BC\\ProductsBC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\BC\\ProductsBC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\BC\\ProductsBC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\BC\\ProductsBC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsDAC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\ProductsDAC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\DAC\\ProductsDAC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\ProductsDAC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\DAC\\ProductsDAC.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRate.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\ProductRate.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\ProductRate.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\ProductRate.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\ProductRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertProductRateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertProductRateRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\InsertProductRateRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertProductRateRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\InsertProductRateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Detail.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\Detail.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Detail.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\Detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteLanguageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\DeleteLanguageRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\DeleteLanguageRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\DeleteLanguageRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\DeleteLanguageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductRatesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductRatesResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetProductRatesResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductRatesResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetProductRatesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsertDescriptionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertDescriptionRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\InsertDescriptionRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertDescriptionRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\InsertDescriptionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllProductRatesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetAllProductRatesResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetAllProductRatesResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetAllProductRatesResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetAllProductRatesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProductRates.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\GetProductRates.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\GetProductRates.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\GetProductRates.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\GetProductRates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductRate.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\DeleteProductRate.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\DeleteProductRate.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\DeleteProductRate.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\DeleteProductRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductRateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\DeleteProductRateRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\DeleteProductRateRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\DeleteProductRateRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\DeleteProductRateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InsertProduct.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\InsertProduct.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\InsertProduct.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\InsertProduct.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\InsertProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetProductDescriptionsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductDescriptionsResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetProductDescriptionsResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductDescriptionsResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetProductDescriptionsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Filter.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\Filter.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Filter.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LanguagesDAC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\LanguagesDAC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\DAC\\LanguagesDAC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\LanguagesDAC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\DAC\\LanguagesDAC.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateUserRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetProductStockResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductStockResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetProductStockResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetProductStockResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetProductStockResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDescription.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\ProductDescription.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\ProductDescription.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\ProductDescription.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\ProductDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InsertProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertProductRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\InsertProductRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\InsertProductRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\InsertProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersDAC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\UsersDAC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\DAC\\UsersDAC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\UsersDAC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\DAC\\UsersDAC.cs",
+              "ViewState": "AQIAAG0BAAAAAAAAAAAIwHkBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwHYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminProduct.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\AdminProduct.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\AdminProduct.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\AdminProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\RatesController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\RatesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wCwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAdminLoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetAdminLoginResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetAdminLoginResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetAdminLoginResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetAdminLoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetLoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetLoginResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetLoginResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetLoginResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetLoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetLanguageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetLanguageResponse.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Response\\GetLanguageResponse.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Response\\GetLanguageResponse.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Response\\GetLanguageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\OrderStatus.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateOrderRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\UpdateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateOrderRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\UpdateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CancelOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\CancelOrderRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\CancelOrderRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\CancelOrderRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\CancelOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RatesBC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\BC\\RatesBC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\BC\\RatesBC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\BC\\RatesBC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\BC\\RatesBC.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Controllers\\LanguagesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RatesDAC.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\RatesDAC.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\DAC\\RatesDAC.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\DAC\\RatesDAC.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\DAC\\RatesDAC.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAIwH8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateDescriptionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateDescriptionRequest.cs",
+              "RelativeDocumentMoniker": "API-NTT-SHOP\\Models\\Request\\UpdateDescriptionRequest.cs",
+              "ToolTip": "C:\\Users\\xtreme\\Documents\\GitHub\\NTTSHOP\\API-NTT-SHOP\\API-NTT-SHOP\\Models\\Request\\UpdateDescriptionRequest.cs",
+              "RelativeToolTip": "API-NTT-SHOP\\Models\\Request\\UpdateDescriptionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:54:34.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

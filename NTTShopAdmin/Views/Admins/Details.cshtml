@@ -1,0 +1,83 @@
+﻿@model NTTShopAdmin.Entities.Admin
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Admin</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PkManuser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PkManuser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Login)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Language)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Language)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar administrador", "Edit", new { idAdmin = Session["idAdmin"] }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

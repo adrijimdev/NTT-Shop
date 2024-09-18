@@ -1,0 +1,47 @@
+﻿@model IEnumerable<NTTShopAdmin.Entities.Admin>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Administradores</h2>
+<p>
+    @Html.ActionLink("Crear nuevo administrador", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID Admin
+        </th>
+        <th>
+            Login
+        </th>
+        <th>
+            Idioma
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PkManuser)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Language)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { idAdmin = item.PkManuser }) |
+                @Html.ActionLink("Detalles", "Details", new { idAdmin = item.PkManuser }) |
+                @Html.ActionLink("Delete", "Delete", new { idAdmin = item.PkManuser })
+            </td>
+        </tr>
+    }
+
+</table>
+</body>
+</html>

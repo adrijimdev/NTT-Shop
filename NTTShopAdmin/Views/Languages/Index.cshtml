@@ -1,0 +1,43 @@
+﻿@model IEnumerable<NTTShopAdmin.Entities.Language>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Añadir idioma", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID Idioma
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            ISO
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idLanguage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.iso)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { idLanguage = item.idLanguage, iso = item.iso }, null) 
+        </td>
+    </tr>
+}
+
+</table>

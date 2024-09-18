@@ -1,0 +1,55 @@
+﻿@model IEnumerable<NTTShopAdmin.Entities.Description>
+
+@{
+    ViewBag.Title = "IndexDescriptions";
+}
+
+<h2>Descripciones</h2>
+
+<p>
+    @Html.ActionLink("Crear descripción", "CreateDescription")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            ID Producto
+        </th>
+        <th>
+            Idioma
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idProductDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.product)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.language)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.description)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "EditDescription", new { idDescription = item.idProductDescription, product = item.product })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<NTTShopAdmin.Entities.User>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Usuarios</h2>
+<p>
+    @Html.ActionLink("Crear nuevo usuario", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID Usuario
+        </th>
+        <th>
+            Login
+        </th>
+        <th>
+            Idioma
+        </th>
+        <th>
+            Tarifa
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PkUser)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.login)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.language)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rate)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { idUser = item.PkUser }, null) |
+            @Html.ActionLink("Detalles", "Details", new { idUser = item.PkUser }, null) |
+            @Html.ActionLink("Eliminar", "Delete", new { idUser = item.PkUser })
+        </td>
+    </tr>
+}
+
+</table>
